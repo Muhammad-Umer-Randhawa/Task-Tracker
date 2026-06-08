@@ -36,12 +36,12 @@ Compile all Java source files with the Gson dependency included in the classpath
 
 **Windows (PowerShell / CMD):**
 ```bash
-javac -cp ".;lib/*" Main.java
+javac -cp ".;lib/*" Main.java TaskManager.java Task.java LocalDateTimeAdapter.java
 ```
 
 **Linux / macOS:**
 ```bash
-javac -cp ".:lib/*" Main.java
+javac -cp ".:lib/*" Main.java TaskManager.java Task.java LocalDateTimeAdapter.java
 ```
 
 ### 2. Execution
