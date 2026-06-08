@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Buy groceries",
+    "status": "in-progress",
+    "createdAt": "2026-06-08T10:14:26.0893616",
+    "updatedAt": "2026-06-08T10:14:26.0943656"
+  },
+  {
+    "id": 2,
+    "description": "Play Football",
+    "status": "todo",
+    "createdAt": "2026-06-08T10:14:52.6409824",
+    "updatedAt": "2026-06-08T10:14:52.6479825"
+  },
+  {
+    "id": 4,
+    "description": "Cook Food",
+    "status": "todo",
+    "createdAt": "2026-06-08T10:15:14.5239032",
+    "updatedAt": "2026-06-08T10:15:14.5289"
+  }
+]
